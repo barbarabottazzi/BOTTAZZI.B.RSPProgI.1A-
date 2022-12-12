@@ -1,0 +1,2 @@
+Id,Marca,Tipo,Altura Edad
+1,callejero,Gato,1.50 5
